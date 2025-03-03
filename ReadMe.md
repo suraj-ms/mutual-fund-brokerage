@@ -14,7 +14,7 @@ This project serves as the backend for managing mutual fund brokerage operations
    - Run: `npm install`
 
 4. **Configure Environment Variables**
-   - Create a `.env` file in the project root based on the `.env.example` (if provided).
+   - Create a `.env` file in the project root
    - Set variables such as:
      - `PORT` (e.g., 3000)
      - `JWT_SECRET` (for signing JWT tokens)
