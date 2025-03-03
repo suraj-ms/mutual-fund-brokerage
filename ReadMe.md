@@ -31,7 +31,7 @@ This project serves as the backend for managing mutual fund brokerage operations
 ## API Routes and Payloads
 
 ### 1. Authentication Routes
-Routes for user registration and login can be found in [`routes/authRoutes.js`](../../../../../../../c:/Users/suraj/OneDrive/Desktop/mutual-fund-brokerage/backend/routes/authRoutes.js).
+Routes for user registration and login can be found in [`routes/authRoutes.js`](https://github.com/suraj-ms/mutual-fund-brokerage/blob/main/backend/routes/authRoutes.js).
 
 - **Register a New User**
   - **Route:** `POST /api/auth/register`
