@@ -5,7 +5,7 @@ This project serves as the backend for managing mutual fund brokerage operations
 ## Setup and Installation
 
 1. **Clone the Repository**
-   - Run: `git clone <repository-url>`
+   - Run: `https://github.com/suraj-ms/mutual-fund-brokerage`
 
 2. **Navigate to the Backend Directory**
    - Run: `cd mutual-fund-brokerage/backend`
